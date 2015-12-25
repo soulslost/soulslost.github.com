@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[灵魂陷落]]></title>
+  <subtitle><![CDATA[狂奔的男尸の暗黑手扎]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/"/>
+  <updated>2015-12-25T09:00:16.298Z</updated>
+  <id>http://localhost:4000/</id>
+  
+  <author>
+    <name><![CDATA[Matthew Zhong]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[工作习惯]]></title>
+    <link href="http://localhost:4000/2015/12/25/%E5%B7%A5%E4%BD%9C%E4%B9%A0%E6%83%AF/"/>
+    <id>http://localhost:4000/2015/12/25/工作习惯/</id>
+    <published>2015-12-25T08:55:39.000Z</published>
+    <updated>2015-12-25T09:00:16.298Z</updated>
+    <content type="html"><![CDATA[<p>以前我做半调子程序员的时候，是针对一个又一个Project开展工作的，通过周报日报来记录工作情况。后来离开了程序员岗位，每天都是做一些琐碎的事情，并没有特定的项目要做，也没有谁要汇报，这个时候倒是有点不适应了。新职业新行业的问题来了，应该怎么样理清自己的工作思路，记录自身的工作轨迹呢？</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>以前我做半调子程序员的时候，是针对一个又一个Project开展工作的，通过周报日报来记录工作情况。后来离开了程序员岗位，每天都是做一些琐碎的事情，并没有特定的项目要做，也没有谁要汇报，这个时候倒是有点不适应了。新职业新行业的问题来了，应该怎么样理清自己的工作思路，记录自身的]]>
+    </summary>
+    
+      <category term="work" scheme="http://localhost:4000/categories/work/"/>
+    
+  </entry>
+  
+</feed>
