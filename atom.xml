@@ -4,7 +4,7 @@
   <subtitle><![CDATA[狂奔的男尸の暗黑手扎]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://localhost:4000/"/>
-  <updated>2015-12-25T09:00:16.298Z</updated>
+  <updated>2016-02-18T06:53:47.712Z</updated>
   <id>http://localhost:4000/</id>
   
   <author>
@@ -13,6 +13,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[黄昏一张流]]></title>
+    <link href="http://localhost:4000/2016/01/15/%E9%BB%84%E6%98%8F/"/>
+    <id>http://localhost:4000/2016/01/15/黄昏/</id>
+    <published>2016-01-15T09:55:39.000Z</published>
+    <updated>2016-02-18T06:53:47.712Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://7xqzo3.com1.z0.glb.clouddn.com/sundown.jpg" alt="黄昏"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://7xqzo3.com1.z0.glb.clouddn.com/sundown.jpg" alt="黄昏"></p>
+]]>
+    </summary>
+    
+      <category term="黄昏" scheme="http://localhost:4000/tags/%E9%BB%84%E6%98%8F/"/>
+    
+      <category term="life" scheme="http://localhost:4000/categories/life/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[工作习惯]]></title>
