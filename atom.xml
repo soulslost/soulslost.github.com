@@ -3,9 +3,9 @@
   <title><![CDATA[灵魂陷落]]></title>
   <subtitle><![CDATA[狂奔的男尸の暗黑手扎]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://localhost:4000/"/>
+  <link href="http://blog.soulslost.com/"/>
   <updated>2016-02-18T06:53:47.712Z</updated>
-  <id>http://localhost:4000/</id>
+  <id>http://blog.soulslost.com/</id>
   
   <author>
     <name><![CDATA[Matthew Zhong]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[黄昏一张流]]></title>
-    <link href="http://localhost:4000/2016/01/15/%E9%BB%84%E6%98%8F/"/>
-    <id>http://localhost:4000/2016/01/15/黄昏/</id>
+    <link href="http://blog.soulslost.com/2016/01/15/%E9%BB%84%E6%98%8F/"/>
+    <id>http://blog.soulslost.com/2016/01/15/黄昏/</id>
     <published>2016-01-15T09:55:39.000Z</published>
     <updated>2016-02-18T06:53:47.712Z</updated>
     <content type="html"><![CDATA[<p><img src="http://7xqzo3.com1.z0.glb.clouddn.com/sundown.jpg" alt="黄昏"></p>
@@ -27,16 +27,16 @@
 ]]>
     </summary>
     
-      <category term="黄昏" scheme="http://localhost:4000/tags/%E9%BB%84%E6%98%8F/"/>
+      <category term="黄昏" scheme="http://blog.soulslost.com/tags/%E9%BB%84%E6%98%8F/"/>
     
-      <category term="life" scheme="http://localhost:4000/categories/life/"/>
+      <category term="life" scheme="http://blog.soulslost.com/categories/life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[工作习惯]]></title>
-    <link href="http://localhost:4000/2015/12/25/%E5%B7%A5%E4%BD%9C%E4%B9%A0%E6%83%AF/"/>
-    <id>http://localhost:4000/2015/12/25/工作习惯/</id>
+    <link href="http://blog.soulslost.com/2015/12/25/%E5%B7%A5%E4%BD%9C%E4%B9%A0%E6%83%AF/"/>
+    <id>http://blog.soulslost.com/2015/12/25/工作习惯/</id>
     <published>2015-12-25T08:55:39.000Z</published>
     <updated>2015-12-25T09:00:16.298Z</updated>
     <content type="html"><![CDATA[<p>以前我做半调子程序员的时候，是针对一个又一个Project开展工作的，通过周报日报来记录工作情况。后来离开了程序员岗位，每天都是做一些琐碎的事情，并没有特定的项目要做，也没有谁要汇报，这个时候倒是有点不适应了。新职业新行业的问题来了，应该怎么样理清自己的工作思路，记录自身的工作轨迹呢？</p>
@@ -45,7 +45,7 @@
     <![CDATA[<p>以前我做半调子程序员的时候，是针对一个又一个Project开展工作的，通过周报日报来记录工作情况。后来离开了程序员岗位，每天都是做一些琐碎的事情，并没有特定的项目要做，也没有谁要汇报，这个时候倒是有点不适应了。新职业新行业的问题来了，应该怎么样理清自己的工作思路，记录自身的]]>
     </summary>
     
-      <category term="work" scheme="http://localhost:4000/categories/work/"/>
+      <category term="work" scheme="http://blog.soulslost.com/categories/work/"/>
     
   </entry>
   
